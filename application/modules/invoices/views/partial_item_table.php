@@ -130,7 +130,7 @@
         </tbody>
 
         <?php foreach ($items as $item) { ?>
-            <tbody class="item">
+            <tbody class="item" style="display: none;">
             <tr>
                 <td rowspan="2" class="td-icon">
                     <i class="fa fa-arrows cursor-move"></i>
