@@ -15,6 +15,7 @@
 	</thead>
 	<tbody>
 		
+	
 		<tr id="new_item" style="display: none;">
 			<td style="vertical-align: top;">
 				<input type="hidden" name="invoice_id" value="<?php echo $invoice_id; ?>">
